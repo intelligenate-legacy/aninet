@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<score:SContext xmlns:score="http://scoreabm.org/score" label="aninet" ID="aninet" pluralLabel="aninets">
+  <implementation package="aninet" className="" basePath="../aninet" mode="AUTO"/>
+</score:SContext>
